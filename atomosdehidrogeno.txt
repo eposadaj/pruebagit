@@ -1,0 +1,35 @@
+En este archivo de texto practicaré todo lo correspondiente a git y github mediante comandos de código.
+
+*Para inicializar el repositorio local:
+git init  (se hace en la terminal en la ubicación de la carperta a la cual se desea crear el repositorio)
+
+
+*Para configurar los derechos:
+git config user.name "usuario registrado en github"
+git config user.email "Correo registrado en github" 
+
+
+*Para comunicar el repositorio local con el repositorio remoto:
+git remote add origin "URL creada en el repositorio remoto de github"
+
+
+*Se puede verificar el status (estado) del git con el comando
+git status
+(acá me da información por ejemplo: si he hecho commits, cuál es el nombre del branch en mi caso master,
+
+*Para agregar archivos de manera no definitiva (en el repositorio local) se hace con el comando:
+git add nombredelarchivo
+
+
+*Para agregar el archivo de manera definitiva (en el repositorio local) se hace con el comando:
+git commit -m "Se pone un mensaje especificando qué se hizo en ese commit"
+
+
+*Para pasar nuestros cambios LOCALES al repositorio REMOTO:
+git push -u origin rama ; ej: git push -u origin main
+
+
+
+
+
+
