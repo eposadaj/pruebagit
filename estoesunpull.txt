@@ -1,1 +1,4 @@
 Este archivo es para hacer un pull desde mi repositorio remoto (pruebagit) a mi repositorio local :D
+
+----------------------------------------------------------------------------------------------------
+Luego de hacer de hacer con éxito el pull; me dedico  uevamente a subir este archivo con un cambio a github
